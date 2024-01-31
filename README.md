@@ -1,1 +1,1 @@
-# Education-App-
+# Education_App
